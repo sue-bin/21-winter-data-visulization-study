@@ -1,4 +1,7 @@
-.form
+.form{
+    display: none;
+}
+
 .greetings {
     display: none;
 }
